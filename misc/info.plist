@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>app-icon-inverted</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>app-icon-inverted</string>
+				</array>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>app-icon</string>
+			</array>
+		</dict>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>karla-bold-italic.ttf</string>
+		<string>karla-bold.ttf</string>
+		<string>karla-extra-bold-italic.ttf</string>
+		<string>karla-extra-bold.ttf</string>
+		<string>karla-extra-light-italic.ttf</string>
+		<string>karla-extra-light.ttf</string>
+		<string>karla-italic.ttf</string>
+		<string>karla-light-italic.ttf</string>
+		<string>karla-light.ttf</string>
+		<string>karla-medium-italic.ttf</string>
+		<string>karla-medium.ttf</string>
+		<string>karla-regular.ttf</string>
+		<string>karla-semi-bold-italic.ttf</string>
+		<string>karla-semi-bold.ttf</string>
+		<string>ibm-plex-mono-bold-italic.ttf</string>
+		<string>ibm-plex-mono-bold.ttf</string>
+		<string>ibm-plex-mono-extra-light-italic.ttf</string>
+		<string>ibm-plex-mono-extra-light.ttf</string>
+		<string>ibm-plex-mono-italic.ttf</string>
+		<string>ibm-plex-mono-light-italic.ttf</string>
+		<string>ibm-plex-mono-light.ttf</string>
+		<string>ibm-plex-mono-medium-italic.ttf</string>
+		<string>ibm-plex-mono-medium.ttf</string>
+		<string>ibm-plex-mono-regular.ttf</string>
+		<string>ibm-plex-mono-semi-bold-italic.ttf</string>
+		<string>ibm-plex-mono-semi-bold.ttf</string>
+		<string>ibm-plex-mono-thin-italic.ttf</string>
+		<string>ibm-plex-mono-thin.ttf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>

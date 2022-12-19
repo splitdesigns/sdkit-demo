@@ -1,0 +1,11 @@
+
+#
+# INFLUENTIAL: GitIgnore
+# Developed by SPLIT Designs
+#
+
+ignore/
+.DS_Store
+
+#
+#
